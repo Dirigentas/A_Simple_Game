@@ -12,7 +12,7 @@ This project was generated with a template including simple application launcher
 ## Gradle
 
 This project uses [Gradle](https://gradle.org/) to manage dependencies.
-The Gradle wrapper was included, so you can run Gradle tasks using `gradlew.bat` or `./gradlew` commands.
+The Gradle wrapper was included, so you can run Gradle tasks using `./gradlew` commands.
 Useful Gradle tasks and flags:
 
 - `--continue`: when using this flag, errors will not stop the tasks from running.
